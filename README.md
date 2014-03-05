@@ -1,4 +1,4 @@
-A phonegap based alarm clock android app whicih allows you to draw your own wallpapers and put it where you want !
+A phonegap based alarm clock android app which allows you to draw your own wallpapers and put it where you want !
 
 
 NOTE : Its still under development ! ;)
