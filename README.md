@@ -1,12 +1,19 @@
 Copyright 2013, SEETA (http://seeta.in)
 
 Project Developers and Contributors
+
 ujjwal relan <ujjwal.relan@gmail.com>
+
 Tusshar Singh <tussharsingh13@gmail.com>
+
 Puneet Kaur <puneet.gkaur@gmail.com>
-rajeev vempuluru <v.rajeev92@gmail.com>
+
+Rajeev vempuluru <v.rajeev92@gmail.com>
+
 Kshitij Tulsyan <kshitijtulsyan@gmail.com>
+
 Ramu Ramamurthy - ramu@tickervalue.com
+
 Manu Sheel Gupta <manu@seeta.in>
 
 This is the 2nd version of the Alarm Clock Activity for the Android operating system. 
