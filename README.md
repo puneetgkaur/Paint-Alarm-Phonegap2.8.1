@@ -31,9 +31,13 @@ The Android part of the project was started by Manusheel Gupta, Managing Directo
 
 The JavaScript Alarm Clock code was initially coded by Ujjwal Relan and Tusshar Singh, interns at SEETA for the Android environment.
 Based in part on the Alarm Clock code code written in Jquery Mobile.
+
 The Alarm Clocke code was:
+
 Portions (c) Copyright 2013, SEETA
-All Rights Reserved.
-Portions (c) Copyright 2011, Aspiring Investments Corp
+
 All Rights Reserved.
 
+Portions (c) Copyright 2011, Aspiring Investments Corp
+
+All Rights Reserved.
